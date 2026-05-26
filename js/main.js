@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Update page title
         const titleMap = {
-            'zh': '广东中瑞制罐有限公司 - 专注制罐25年 | 纸罐·纸筒·复合罐定制',
+            'zh': '广东中瑞制罐有限公司 - 专注制罐27年 | 纸罐·纸筒·复合罐定制',
             'en': 'Guangdong Zhongrui Can Making Co., Ltd. - 25 Years of Can Making Excellence'
         };
         document.title = titleMap[lang] || titleMap.zh;
@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (submitBtn.disabled) {
                     submitBtn.disabled = false;
                     submitBtn.textContent = '提交询价';
-                    alert('感谢您的询价！如未收到确认，请直接拨打：0757-22330990');
+                    alert('感谢您的询价！如未收到确认，请直接拨打：0757-26329881');
                 }
             }, 8000);
         });

@@ -4,7 +4,7 @@
 
 const zh_translations = {
     // Top Bar
-    'top.text': '欢迎访问广东中瑞制罐有限公司官方网站！专注制罐25年，品质为先！',
+    'top.text': '欢迎访问广东中瑞制罐有限公司官方网站！专注制罐27年，品质为先！',
     
     // Navigation
     'nav.home': '首页', 'nav.about': '走进中瑞', 'nav.products': '产品中心',
@@ -12,7 +12,7 @@ const zh_translations = {
     'nav.clients': '客户案例', 'nav.news': '新闻资讯', 'nav.contact': '联系我们',
     
     // Hero
-    'hero.title1': '专注制罐25年', 'hero.sub1': '省级专精特新企业 · 高新技术企业 · 日产50万罐 · 20余条生产线',
+    'hero.title1': '专注制罐27年', 'hero.sub1': '省级专精特新企业 · 高新技术企业 · 日产50万罐 · 20余条生产线',
     'hero.title2': '环保纸罐定制专家', 'hero.sub2': '食品级包装 · 可定制设计 · 快速打样 · 批量生产 · TUV认证工厂',
     'hero.title3': '品质为先 · 客户至上', 'hero.sub3': 'TUV认证工厂 · 22项专利 · 服务3000+客户 · 14686m²现代化厂房',
     'hero.btn1': '查看产品', 'hero.btn2': '立即咨询',
@@ -34,7 +34,7 @@ const zh_translations = {
     // Section Headers
     'sec.about': '走进中瑞', 'sec.about_sub': '了解我们的故事、资质与实力',
     'sec.products': '产品中心', 'sec.products_sub': '全品类纸罐·纸筒·复合罐定制',
-    'sec.advantages': '核心优势', 'sec.advantages_sub': '25年制罐经验，五大核心优势保障品质',
+    'sec.advantages': '核心优势', 'sec.advantages_sub': '27年制罐经验，五大核心优势保障品质',
     'sec.gallery': '产品相册', 'sec.gallery_sub': '精美产品实拍展示',
     'sec.factory': '工厂实景', 'sec.factory_sub': '现代化生产基地，品质看得见',
     'sec.custom': '定制案例', 'sec.custom_sub': '从设计到成品，一站式定制服务',
@@ -45,7 +45,7 @@ const zh_translations = {
     
     // About
     'about.title': '广东中瑞制罐有限公司',
-    'about.p1': '成立于2001年，专注制罐25年，是一家集研发、生产、销售于一体的专业化纸罐/纸筒/复合罐生产企业。公司位于广东省佛山市顺德区大良街道，厂房面积14686m²，员工265人，日产能力达50万罐，拥有20余条自动化生产线。',
+    'about.p1': '成立于2001年，专注制罐27年，是一家集研发、生产、销售于一体的专业化纸罐/纸筒/复合罐生产企业。公司位于广东省佛山市顺德区大良街道，厂房面积14686m²，员工265人，日产能力达50万罐，拥有20余条自动化生产线。',
     'about.p2': '公司先后荣获省级专精特新企业、高新技术企业、科技型中小企业等认定，已通过TUV机构认证。拥有22项专利，服务客户超过3000家，产品远销国内外。',
     'about.sub1': '公司介绍', 'about.sub2': '资质认证', 'about.sub3': '效率规模', 'about.sub4': '品质检测',
     
@@ -90,7 +90,7 @@ const zh_translations = {
     
     // Footer
     'footer.about_title': '关于中瑞',
-    'footer.about_desc': '广东中瑞制罐有限公司，专注制罐25年，省级专精特新企业，高新技术企业。主营纸罐、纸筒、复合罐定制。',
+    'footer.about_desc': '广东中瑞制罐有限公司，专注制罐27年，省级专精特新企业，高新技术企业。主营纸罐、纸筒、复合罐定制。',
     'footer.nav': '快速导航',
     'footer.products': '产品分类',
     'footer.contact_info': '联系信息',
@@ -134,7 +134,7 @@ const zh_translations = {
     'factory.stat_cycle': '天平均生产周期',
     'factory.stat_ontime': '准时履约率',
     'factory.capacity_p1': '公司拥有20余条自动化制罐生产线，涵盖卷管、贴标、封底、卷边等全部关键工序。每台设备均配备PLC智能控制系统，实现生产参数实时监控与自动调节，确保产品尺寸精度与外观质量的高度一致性。',
-    'factory.capacity_p2': '通过精益生产管理与ERP系统深度集成，我们实现了从订单接收、物料采购、生产排程到成品出库的全流程数字化管理。平均生产周期仅7.2天，紧急订单可压缩至5天内交付。2025年全年准时履约率达到100%，客户满意度持续提升。',
+    'factory.capacity_p2': '通过精益生产管理与ERP系统深度集成，我们实现了从订单接收、物料采购、生产排程到成品出库的全流程数字化管理。平均生产周期仅7.2天，紧急订单可压缩至5天内交付。连续多年准时履约率达到100%，客户满意度持续提升。',
     'factory.capacity_p3': '仓库总面积超过3000平方米，实行分区管理与先进先出原则。与多家头部物流供应商建立战略合作，支持全国配送及出口海运、空运等多种物流方式，确保货物安全、准时送达客户手中。',
     'back_to_factory': '返回工厂实景',
 
@@ -157,13 +157,13 @@ const zh_translations = {
 };
 
 const en_translations = {
-    'top.text': 'Welcome to Guangdong Zhongrui Can Making Co., Ltd.! 25 years of expertise in can manufacturing!',
+    'top.text': 'Welcome to Guangdong Zhongrui Can Making Co., Ltd.! 27 years of expertise in can manufacturing!',
     
     'nav.home': 'Home', 'nav.about': 'About Us', 'nav.products': 'Products',
     'nav.gallery': 'Gallery', 'nav.factory': 'Factory', 'nav.custom': 'Custom Cases',
     'nav.clients': 'Our Clients', 'nav.news': 'News', 'nav.contact': 'Contact',
     
-    'hero.title1': '25 Years of Can Making Excellence',
+    'hero.title1': '27 Years of Can Making Excellence',
     'hero.sub1': 'Provincial Specialized & New Enterprise · Hi-Tech Enterprise · 500K cans/day · 20+ Production Lines',
     'hero.title2': 'Eco-Friendly Paper Can Expert',
     'hero.sub2': 'Food-Grade Packaging · Custom Design · Fast Sampling · Mass Production · TUV Certified',
@@ -185,7 +185,7 @@ const en_translations = {
     
     'sec.about': 'About Us', 'sec.about_sub': 'Our Story, Certifications & Capabilities',
     'sec.products': 'Products', 'sec.products_sub': 'Full Range of Paper Cans, Tubes & Composite Cans',
-    'sec.advantages': 'Core Advantages', 'sec.advantages_sub': '25 Years of Craftsmanship, 5 Key Strengths',
+    'sec.advantages': 'Core Advantages', 'sec.advantages_sub': '27 Years of Craftsmanship, 5 Key Strengths',
     'sec.gallery': 'Product Gallery', 'sec.gallery_sub': 'Professional Product Photography',
     'sec.factory': 'Factory Tour', 'sec.factory_sub': 'Modern Production Base, Quality You Can See',
     'sec.custom': 'Custom Solutions', 'sec.custom_sub': 'From Design to Production, One-Stop Custom Service',
@@ -195,7 +195,7 @@ const en_translations = {
     'sec.contact': 'Contact Us', 'sec.contact_sub': 'Get in Touch for Packaging Solutions',
     
     'about.title': 'Guangdong Zhongrui Can Making Co., Ltd.',
-    'about.p1': 'Founded in 2001 with 25 years of specialized can manufacturing experience, we are a professional enterprise integrating R&D, production and sales of paper cans, paper tubes and composite cans. Located in Daliang, Shunde, Foshan, Guangdong, we operate a 14,686m² facility with 265 employees, daily capacity of 500,000 cans, and 20+ automated production lines.',
+    'about.p1': 'Founded in 2001 with 27 years of specialized can manufacturing experience, we are a professional enterprise integrating R&D, production and sales of paper cans, paper tubes and composite cans. Located in Daliang, Shunde, Foshan, Guangdong, we operate a 14,686m² facility with 265 employees, daily capacity of 500,000 cans, and 20+ automated production lines.',
     'about.p2': 'We are recognized as a Provincial Specialized & New Enterprise, National High-Tech Enterprise, and Technology-based SME. TUV certified, we hold 22 patents and serve 3000+ clients both domestically and internationally.',
     'about.sub1': 'Company Profile', 'about.sub2': 'Certifications', 'about.sub3': 'Scale & Efficiency', 'about.sub4': 'Quality Control',
     
@@ -234,7 +234,7 @@ const en_translations = {
     'contact.map_title': 'Map & Location',
     
     'footer.about_title': 'About Zhongrui',
-    'footer.about_desc': 'Guangdong Zhongrui Can Making Co., Ltd. - 25 years of can making expertise. Provincial specialized enterprise, national high-tech enterprise.',
+    'footer.about_desc': 'Guangdong Zhongrui Can Making Co., Ltd. - 27 years of can making expertise. Provincial specialized enterprise, national high-tech enterprise.',
     'footer.nav': 'Quick Links',
     'footer.products': 'Products',
     'footer.contact_info': 'Contact Info',
